@@ -1,0 +1,1 @@
+A simple blog to test out the features and functionalities of Taipy
